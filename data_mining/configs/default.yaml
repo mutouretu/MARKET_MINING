@@ -1,0 +1,37 @@
+project:
+  name: market_mining
+  version: 0.1.0
+
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+
+database:
+  url: sqlite:///market_mining.db
+
+sources:
+  fred:
+    enabled: true
+    api_key_env: FRED_API_KEY
+    output_dir: data/raw/fred
+    series:
+      - DFF
+      - WALCL
+      - RRPONTSYD
+      - M2SL
+      - DGS2
+      - DGS10
+      - DFII10
+      - VIXCLS
+      - BAMLH0A0HYM2
+  treasury: {}
+  stablecoin: {}
+  etf_flow: {}
+  crypto_confirmation: {}
+
+scores: {}
+
+regimes: {}
+
+logging:
+  level: INFO

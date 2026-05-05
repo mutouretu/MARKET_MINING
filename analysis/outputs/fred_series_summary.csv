@@ -1,0 +1,10 @@
+series_id,label,group,unit,first_date,last_date,latest_value,observations,missing_values_raw,missing_values_after_ffill,change_30d,change_90d,pct_change_90d,zscore_252d,bullish_when,btc_implication,status
+BAMLH0A0HYM2,High Yield OAS,risk_appetite,percent,2023-05-02,2026-04-30,2.83,786,8,1217,-0.33000000000000007,-0.04999999999999982,-0.01736111111111105,-0.5964915155988385,down,positive_for_btc,improving
+DFF,Effective Federal Funds Rate,fed_policy,percent,2020-01-01,2026-04-30,3.64,2312,0,0,0.0,0.0,0.0,-0.7729142955217432,down,neutral,neutral
+DFII10,10Y Real Yield,rates,percent,2020-01-01,2026-04-30,1.94,1583,69,1,-0.08000000000000007,0.040000000000000036,0.021052631578947434,0.9878892754720064,down,positive_for_btc,improving
+DGS2,2Y Treasury Yield,rates,percent,2020-01-01,2026-04-30,3.88,1583,69,1,0.06999999999999984,0.3599999999999999,0.10227272727272729,2.3047060289595875,down,negative_for_btc,deteriorating
+DGS10,10Y Treasury Yield,rates,percent,2020-01-01,2026-04-30,4.4,1583,69,1,0.07000000000000028,0.14000000000000057,0.032863849765258246,2.125043537628024,down,negative_for_btc,deteriorating
+M2SL,M2 Money Supply,usd_liquidity,billion_usd,2020-01-01,2026-03-01,22686.0,75,0,0,0.0,256.7000000000007,0.011444851154516655,1.3157123057533597,up,neutral,neutral
+RRPONTSYD,Overnight Reverse Repo,usd_liquidity,billion_usd,2020-01-01,2026-05-01,0.607,1581,72,1,-1.5000000000000002,-9.022,-0.9369612628518018,-0.5502511628113282,down,positive_for_btc,improving
+VIXCLS,VIX,risk_appetite,index,2020-01-01,2026-04-30,16.89,1619,33,1,-7.649999999999999,-0.5500000000000007,-0.03153669724770647,-0.4389309360021144,down,positive_for_btc,improving
+WALCL,Fed Balance Sheet,usd_liquidity,million_usd,2020-01-01,2026-04-29,6699950.0,331,0,0,24606.0,112382.0,0.017059710047774734,2.0929993073307473,up,positive_for_btc,improving

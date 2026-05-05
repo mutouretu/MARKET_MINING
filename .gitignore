@@ -1,0 +1,11 @@
+.venv/
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Downloaded/processed data is reproducible from source connectors.
+data/raw/
+data/processed/
