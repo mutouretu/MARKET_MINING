@@ -25,12 +25,12 @@ dependencies = [
 market-mining = "market_mining.cli:app"
 
 [tool.setuptools.packages.find]
-where = ["data_mining", "analysis", "visualization"]
+where = ["data_foundation", "feature_foundation", "monitoring"]
 
 [tool.ruff]
 line-length = 100
 target-version = "py310"
 
 [tool.pytest.ini_options]
-testpaths = ["data_mining/tests", "analysis/tests", "visualization/tests"]
-pythonpath = ["data_mining", "analysis", "visualization"]
+testpaths = ["data_foundation/tests", "feature_foundation/tests", "monitoring/tests"]
+pythonpath = ["data_foundation", "feature_foundation", "monitoring"]

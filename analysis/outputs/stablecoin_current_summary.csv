@@ -1,6 +1,0 @@
-metric,value,date,source
-total_stablecoin_supply_current,319141920000.4773,2026-05-04,defillama_stablecoins
-usdt_supply_current,189510521003.7865,2026-05-04,defillama_stablecoins
-usdc_supply_current,77408318211.26457,2026-05-04,defillama_stablecoins
-usdt_dominance_current,0.5938126868557508,2026-05-04,defillama_stablecoins
-usdc_dominance_current,0.24255139597815545,2026-05-04,defillama_stablecoins

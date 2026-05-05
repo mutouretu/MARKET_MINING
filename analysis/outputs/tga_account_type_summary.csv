@@ -1,9 +1,0 @@
-account_type,first_date,last_date,count,latest_value_million,latest_value_billion
-Federal Reserve Account,2020-01-02,2021-09-30,442,215160.0,215.16
-Short-Term Cash Investments (Table V),2020-01-02,2022-04-15,578,0.0,0.0
-Supplementary Financing Program Account,2020-01-02,2022-04-15,578,0.0,0.0
-Treasury General Account (TGA),2021-10-01,2022-04-15,136,578473.0,578.473
-Total TGA Deposits (Table II),2022-04-18,2026-04-30,1011,563836.0,563.836
-Total TGA Withdrawals (Table II) (-),2022-04-18,2026-04-30,1011,582555.0,582.555
-Treasury General Account (TGA) Closing Balance,2022-04-18,2026-04-30,1011,969383.0,969.383
-Treasury General Account (TGA) Opening Balance,2022-04-18,2026-04-30,1011,988102.0,988.102
